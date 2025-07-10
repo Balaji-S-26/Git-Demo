@@ -1,2 +1,4 @@
+This is the second change now
+
 Hello this is git file
 And this is the 1st change.
